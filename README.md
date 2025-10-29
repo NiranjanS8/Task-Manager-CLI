@@ -87,12 +87,6 @@ Task added successfully!
 
 ---
 
-## 🏆 Resume Description Example
-**Task Manager CLI (Java, DSA Project)**  
-Built a command-line task manager using custom data structures (LinkedList). Implemented CRUD operations, data persistence, and efficient task tracking with file-based storage.
-
----
-
 ## 👨‍💻 Author
-Developed by *[Your Name]*  
+Developed by Niranjan 
 Feel free to fork or improve this project!
